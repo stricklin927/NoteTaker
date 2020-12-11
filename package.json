@@ -1,14 +1,26 @@
 {
-  "name": "note-taker",
+  "name": "notetaker",
   "version": "1.0.0",
-  "description": "",
+  "description": "An application that can be used to write, save, and delete notes.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Alexandra Stricklin",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.16.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stricklin927/NoteTaker.git"
+  },
+  "keywords": [
+    "note",
+    "taker"
+  ],
+  "bugs": {
+    "url": "https://github.com/stricklin927/NoteTaker/issues"
+  },
+  "homepage": "https://github.com/stricklin927/NoteTaker#readme"
 }
