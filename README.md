@@ -5,7 +5,18 @@ MSU - Homework 11: Note Taker (Express)
 For this project I created an application that can be used to write, save, and delete notes. This application will use an express backend to save and retrieve note data from a JSON file.
 
 ## App Demo
+* Application deployed to Heroku
+* [Click here to demo this app.](https://blooming-mesa-02809.herokuapp.com/)
+
 ![Demo](assets/images/demo1.png)
+
+## Installation
+* Node.js required
+1. git clone repo
+2. npm install
+
+## Usage
+* node server.js
 
 ## Built with:
 * Node
